@@ -1,5 +1,3 @@
-POST /notifications/api/v2/webhook
-
 {
   "AppName":     "Defect added",
   "AppUrl":      "http://74.208.193.198:8090/Api/RallyDefectCreated",
