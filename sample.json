@@ -1,8 +1,8 @@
 {
-  "AppName":     "Defect added",
-  "AppUrl":      "http://74.208.193.198:8090/Api/RallyDefectCreated",
-  "Name":        "Defect added",
-  "TargetUrl":   "http://74.208.193.198:8090/Api/RallyDefectCreated",
+  "AppName":     "Rusty Defect Added",
+  "AppUrl":      "www.rustyexample.com",
+  "Name":        "Rusty Defect Webhook",
+  "TargetUrl":   "http://requestb.in/ra8c53ra",
   "ObjectTypes": ["Defect"],
    "Expressions": [
         {
